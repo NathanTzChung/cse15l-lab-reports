@@ -1,1 +1,1 @@
-![SettingUp](SettingUpSiteScreenshot.JPG)
+![SettingUp](SettingUpScreenshot.JPG)
