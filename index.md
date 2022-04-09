@@ -23,3 +23,6 @@ Not sure what to put here:
 Even better
 This is what I added on VSC, yatta!
 ```
+[Lab Report 1](lab-report-1-week-2.html)
+
+[Lab Report 1](https://NathanTzChung.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html)
