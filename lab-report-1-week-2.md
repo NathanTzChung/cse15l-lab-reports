@@ -46,6 +46,7 @@ Try running these commands:
 `cd`, `ls`, `pwd`, `mkdir`, and `cp` on **both your computer and the remote computer**.
 
 Here are some other commands to try:
+
 ![Commands](SomeUNIXCommands.JPG)
 
 *Being familiar with the commands may be useful to know what commands work or don't work on your computer versus the remote server
@@ -64,7 +65,7 @@ Run this command:
 You will be asked for your password, after typing it in, log into the server (ieng6) using `ssh` again. Use `ls`, and you should be able to the file you just copied in the home directory.
 
 Here is an example of using the `scp` command. Notice that scp originally didn't work because I inputted the wrong username (didn't replace the zz with my information): 
-![scp](scp.JPG
+![scp](scp.JPG)
 
 ## 5. Setting an SSH Key
 ---
