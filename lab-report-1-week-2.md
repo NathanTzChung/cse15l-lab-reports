@@ -32,9 +32,9 @@ This is what your terminal may look like upon logging in:
 Try running these commands:
 `cd`, `ls`, `pwd`, `mkdir`, and `cp` on **both your computer and the remote computer**.
 
-Here are some other commands to try:
+Here is an example of running the `ls -lat` command:
 
-![Commands](SomeUNIXCommands.JPG)
+![Commands](ExampleCommandUsage.JPG)
 
 * Being familiar with the commands may be useful to know what commands work or don't work on your computer versus the remote server
 
