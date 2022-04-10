@@ -77,42 +77,7 @@ Enter this on your computer:
 $ ssh-keygen
 ```
 
-This will show up:
-```
-Generating public/private rsa key pair.
-
-Enter file in which to save the key (/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa
-
-Enter passphrase (empty for no passphrase): 
-```
-
-You can just click enter at this moment to have no passphrase, continue:
-```
-Enter same passphrase again: 
-
-Your identification has been saved in /Users/<user-name>/.ssh/id_rsa.
-
-Your public key has been saved in /Users/<user-name>/.ssh/id_rsa.pub.
-
-The key fingerprint is:
-
-SHA256:jZaZH6fI8E2I1D35hnvGeBePQ4ELOf2Ge+G0XknoXp0 <user-name>@<system>.local
-The key's randomart image is:
-
-+---[RSA 3072]----+
-|                 |
-|       . . + .   |
-|      . . B o .  |
-|     . . B * +.. |
-|      o S = *.B. |
-|       = = O.*.*+|
-|        + * *.BE+|
-|           +.+.o |
-|             ..  |
-+----[SHA256]-----+
-```
-
-If you're on Windows, this step `ssh-add` might be needed (though I did not need this step) [ssh-add](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
+and just click enter to have no passphrase.
 
 >The steps above created the private key file (**id_rsa**) and public key file (**id_rsa.pub**) which are stored in the **.ssh** directory of your computer.
 
