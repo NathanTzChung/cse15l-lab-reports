@@ -124,3 +124,11 @@ Lastly, you have to copy the **public** key to the **.ssh** directory of your ac
 Now you shouldn't need to enter a password when using `ssh`! (like this)
 ![ssh](ssh_without_password.JPG)
 
+## 6. Optimizing Remote Running
+---
+
+There are multiple ways to save time:
+* You can run multiple commands on the same line using `;`. This can reduce the amount of keystrokes you need.
+* Use the up-arrow key to use a previously entered command
+* Write a command in quotes after an `ssh` command. Such as `$ ssh cs15lsp22zz@ieng6.ucsd.edu "pwd"`
+![Optimize](Optimize.JPG)
