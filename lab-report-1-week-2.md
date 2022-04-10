@@ -22,20 +22,7 @@ Now, in VSC, open up a terminal. This can be done by using the shortcut *Ctrl + 
 
 `$ ssh cs15lsp22zz@ieng6.ucsd.edu`
 
-Since you are connecting to a new server for the first time, this message may appear: 
-
-```
-=> ssh cs15lsp22zz@ieng6.ucsd.edu
-
-The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
-
-RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-
-Are you sure you want to continue connecting (yes/no/[fingerprint])?
-```
-
-Answer yes.
-Then you may proceed and enter your password to login.
+Enter your password to log in.
 This is what your terminal may look like upon logging in: 
 ![SettingUp](SettingUpScreenshot.JPG)
 
