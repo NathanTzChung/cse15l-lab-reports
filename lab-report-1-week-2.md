@@ -49,7 +49,7 @@ Here are some other commands to try:
 
 ![Commands](SomeUNIXCommands.JPG)
 
-*Being familiar with the commands may be useful to know what commands work or don't work on your computer versus the remote server
+* Being familiar with the commands may be useful to know what commands work or don't work on your computer versus the remote server
 
 Also, a good thing to know is that `Ctrl + D` or running the command `exit` can log you out of the remote server.
 
