@@ -66,7 +66,7 @@ $ ssh-keygen
 
 and just click enter to have no passphrase.
 
->The steps above created the private key file (**id_rsa**) and public key file (**id_rsa.pub**) which are stored in the **.ssh** directory of your computer.
+>The step above created the private key file (**id_rsa**) and public key file (**id_rsa.pub**) which are stored in the **.ssh** directory of your computer.
 
 Lastly, you have to copy the **public** key to the **.ssh** directory of your account on the server.
 * Log in using ssh
