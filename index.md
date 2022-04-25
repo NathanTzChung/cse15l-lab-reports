@@ -7,8 +7,6 @@
 
 > [**Lab Report 2**](https://nathantzchung.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
 
- </br>
- </br>
 
 ## Below is just me playing around with markdown 
 ---
