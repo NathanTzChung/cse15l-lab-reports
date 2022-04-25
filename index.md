@@ -1,10 +1,23 @@
-# Welcome
+# Welcome to the Main Page
+
+## Here are the links that take you to other pages on my blog
+---
+
+> [**Lab Report 1**](https://NathanTzChung.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
+> [**Lab Report 2**](https://nathantzchung.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
+
+</br>
+</br>
+
+## Below is just me playing around with markdown 
+---
 ## This is the funky town
 *yurr*
 
 **noar**
 
-[Click Here](https://www.google.com/)
+[Click Here to got to Google.com](https://www.google.com/)
 ![GoogleImage](https://cdn.vox-cdn.com/thumbor/Pkmq1nm3skO0-j693JTMd7RL0Zk=/0x0:2012x1341/1200x800/filters:focal(0x0:2012x1341)/cdn.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg)
 > Welcome to the Thread
 > :)
@@ -23,6 +36,6 @@ Not sure what to put here:
 Even better
 This is what I added on VSC, yatta!
 ```
-[Lab Report 1](lab-report-1-week-2.html)
 
 [Lab Report 1](https://NathanTzChung.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+

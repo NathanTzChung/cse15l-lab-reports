@@ -8,7 +8,7 @@
 ---
 
 1. This is the code change that we applied:
-![First code change](break_original_fix.jpg)
+![First code change](break_original_fix.JPG)
 
 2. Here is the [**test file**](https://github.com/NathanTzChung/markdown-parser/blob/main/break.md) that included the failure-inducing input. 
 
@@ -18,7 +18,7 @@ The above image was the input that we ran the code on.
 
 
 3. Running the code on the failure-inducing input led to this symptom showing up in the terminal:
-![First code change error](break_original_error.jpg)
+![First code change error](break_original_error.JPG)
 
 4. In the test file that we ran the code on, we broke the code by including an open bracket without the rest of the components needed to create a link. The bug was caused by the indexOf() statements within the while loop in which led to the currentIndex to never surpass the length of the test file. Basically, since the test file had a dangling open bracket, the while loop in the code could not stop. The symptom caused by the bug was that the failure-inducing input led to an infinite loop denoted by the `OutOfMemoryError`. The fix was to include code that would exit the while loop if there is any missing component needed to create a link.
 
