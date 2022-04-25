@@ -36,6 +36,3 @@ Not sure what to put here:
 Even better
 This is what I added on VSC, yatta!
 ```
-
-[Lab Report 1](https://NathanTzChung.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
-
