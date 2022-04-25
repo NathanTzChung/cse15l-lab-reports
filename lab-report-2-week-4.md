@@ -11,11 +11,8 @@
 ![First code change](break_original_fix.JPG)
 
 2. Here is the [**test file**](https://github.com/NathanTzChung/markdown-parser/blob/main/break.md) that included the failure-inducing input. 
-
-*The test file has since been changed, it originally looked like this*: ![original input](break_original.jpg) 
-
-The above image was the input that we ran the code on.
-
+</br>*The test file has since been changed, it originally looked like this*: ![original input](break_original.jpg) 
+</br>The above image was the input that we ran the code on.
 
 3. Running the code on the failure-inducing input led to this symptom showing up in the terminal:
 ![First code change error](break_original_error.JPG)
@@ -29,8 +26,7 @@ The above image was the input that we ran the code on.
 ![Second code change](break2_original_fix.JPG)
 
 2. Here is the [**test file**](https://github.com/NathanTzChung/markdown-parser/blob/main/break2.md) that included the second failure-inducing input.
-
-This is a visual for the file that we ran our code on:
+</br>This is a visual for the file that we ran our code on:
 ![second input](break2_original.JPG)
 
 3. Running the code on the second failure-inducing input led to this symptom showing up in the terminal:
@@ -45,8 +41,7 @@ This is a visual for the file that we ran our code on:
 ![Third code change](break3_original_fix.JPG)
 
 2. Here is the [**test file**](https://github.com/NathanTzChung/markdown-parser/blob/main/break3.md) that included the third failure-inducing input.
-
-This is a visual for the file that we ran our code on:
+</br>This is a visual for the file that we ran our code on:
 ![third input](break3_original.JPG)
 
 3. Running the code on the third failure-inducing input led to this symptom showing up in the terminal:
