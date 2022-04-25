@@ -10,8 +10,8 @@
 1. This is the code change that we applied:
 ![First code change](break_original_fix.JPG)
 
-2. Here is the [**test file**](https://github.com/NathanTzChung/markdown-parser/blob/main/break.md) that included the failure-inducing input. 
-</br>*The test file has since been changed, it originally looked like this*: ![original input](break_original.jpg) 
+2. Here is the [**test file**](https://github.com/NathanTzChung/markdown-parser/blob/main/break.md) that included the failure-inducing input. </br>
+*The test file has since been changed, it originally looked like this*: ![original input](break_original.jpg) 
 </br>The above image was the input that we ran the code on.
 
 3. Running the code on the failure-inducing input led to this symptom showing up in the terminal:
