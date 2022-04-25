@@ -11,7 +11,8 @@
 ![First code change](break_original_fix.JPG)
 
 2. Here is the [**test file**](https://github.com/NathanTzChung/markdown-parser/blob/main/break.md) that included the failure-inducing input.
-*The test file has since been changed, this is what we originally ran our code on*: ![original input](break_original.jpg) 
+*The test file has since been changed, this is what we originally ran our code on*: 
+![original input](break_original.jpg) 
 
 3. Running the code on the failure-inducing input led to this symptom showing up in the terminal:
 ![First code change error](break_original_error.JPG)
