@@ -10,6 +10,7 @@
 >
 > ![Snippet1_Preview](lab4_snippet1_preview.JPG)
 > 
+
 These are the expected valid links: "`google.com", "google.com", "ucsd.edu"
 
 > Here is how I turned it into a test:
@@ -34,6 +35,7 @@ These are the expected valid links: "`google.com", "google.com", "ucsd.edu"
 >
 > ![Snippet2_Preview](lab4_snippet2_preview.JPG)
 > 
+
 These are the expected valid links: "a.com", "a.com(())", "example.com"
 
 > Here is how I turned it into a test:
@@ -58,6 +60,7 @@ These are the expected valid links: "a.com", "a.com(())", "example.com"
 >
 > ![Snippet3_Preview](lab4_snippet3_preview.JPG)
 > 
+
 This is the expected valid link: "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule"
 
 > Here is how I turned it into a test:
