@@ -9,6 +9,8 @@
 
 > [**Lab Report 3**](https://nathantzchung.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
 
+> [**Lab Report 4**](https://nathantzchung.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
+
 ## Below is just me playing around with markdown 
 ---
 ## This is the funky town
