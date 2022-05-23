@@ -1,4 +1,4 @@
-# *CSE 15L: Lab Report 4**
+# **CSE 15L: Lab Report 4**
 
 [My MDParse Repository](https://github.com/NathanTzChung/markdown-parser)
 
@@ -10,19 +10,19 @@
 >
 > ![Snippet1_Preview](lab4_snippet1_preview.JPG)
 > 
-> These are the expected valid links: "`google.com", "google.com", "ucsd.edu"
+These are the expected valid links: "`google.com", "google.com", "ucsd.edu"
 
-> Here is how I turned it into a test
+> Here is how I turned it into a test:
 > 
 > ![Snippet1_test](lab4_snippet1_test.JPG)
 
 > The corresponding outputs when running the test (*Both my implementation and the other group's impementations failed the test*)
 > 
-> My failed output
+> My failed output:
 >
 > ![Snippet1_error](lab4_snippet1_error.JPG)
 >
-> Reviewed group's failed ouput
+> Reviewed group's failed ouput:
 > 
 > ![Snippet1_reviewed_error](lab4_snippet1_review_error.JPG)
 
@@ -34,19 +34,19 @@
 >
 > ![Snippet2_Preview](lab4_snippet2_preview.JPG)
 > 
-> These are the expected valid links: "a.com", "a.com(())", "example.com"
+These are the expected valid links: "a.com", "a.com(())", "example.com"
 
-> Here is how I turned it into a test
+> Here is how I turned it into a test:
 > 
 > ![Snippet2_test](lab4_snippet2_test.JPG)
 
 > The corresponding outputs when running the test (*Both my implementation and the other group's impementations failed the test*)
 > 
-> My failed output
+> My failed output:
 >
 > ![Snippet2_error](lab4_snippet2_error.JPG)
 >
-> Reviewed group's failed ouput
+> Reviewed group's failed ouput:
 > 
 > ![Snippet2_reviewed_error](lab4_snippet2_review_error.JPG)
 
@@ -58,19 +58,19 @@
 >
 > ![Snippet3_Preview](lab4_snippet3_preview.JPG)
 > 
-> This is the expected valid link: "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule"
+This is the expected valid link: "https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule"
 
-> Here is how I turned it into a test
+> Here is how I turned it into a test:
 > 
 > ![Snippet3_test](lab4_snippet3_test.JPG)
 
 > The corresponding outputs when running the test (*Both my implementation and the other group's impementations failed the test*)
 > 
-> My failed output
+> My failed output:
 >
 > ![Snippet3_error](lab4_snippet3_error.JPG)
 >
-> Reviewed group's failed ouput
+> Reviewed group's failed ouput:
 > 
 > ![Snippet3_reviewed_error](lab4_snippet3_review_error.JPG)
 
