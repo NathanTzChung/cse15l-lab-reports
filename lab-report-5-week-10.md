@@ -15,6 +15,7 @@ Here is an image of what using the command initially displayed:
 > [test2_test-file-494](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/494.md?plain=1)
 
 ## **Test 1: Test File 489**
+The test-file: [test1_test-file-489](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/489.md?plain=1)
 ---
 
 Here are the actual outputs shown from using `vimdiff`:
@@ -36,6 +37,8 @@ Based on the expected output in the image, and as aforementioned, our implementa
 This is a portion of our code that checks for new lines inbetween the brackets. Similarly, we would need to **write and add *new*** code that checks for new lines inbetween the parantheses (instead of inbetween the brackets). We would put the new code after the lines of code in the above image.
 
 ## **Test 2: Test File 494**
+The test-file: [test2_test-file-494](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/494.md?plain=1)
+
 ---
 
 Here are the actual outputs shown from using `vimdiff`:
@@ -48,7 +51,7 @@ Here is what the expected output should be:
 
 ![vimdiff2_Expected](lab5_vimdiff2_commonmark.JPG)
 
-What should be produced is an empty list of links.
+What should be produced is a list of one link which is `\(foo\)`.
 
 Since our code produces the *incorrect* output, I found that the bug causing it was that we aren't checking for nested opening/closing parantheses inside within the URL portion. In order to fix this bug, our code would need to have a fix similar to this:
 
